@@ -1,0 +1,17 @@
+{
+  "name": "loginmod-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "dev:admin": "cross-env INCLUDE_ADMIN=true vitepress dev docs",
+    "build": "vitepress build docs",
+    "build:admin": "cross-env INCLUDE_ADMIN=true vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "vitepress": "^1.6.4"
+  }
+}
