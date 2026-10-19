@@ -1,9 +1,9 @@
 
-## Como empezar 
+## ⛄ Tranquilo ! 
 
 No podrás moverte, usar el hotbar o el menú hasta autenticarte.
 
-## Regístrate (sólo la primera vez)
+## 🐤 Regístrate (sólo la primera vez)
 
 ::: info
 Lo haces con el comando **/register** en el chat y escribiendo tu nueva clave dos veces
@@ -13,7 +13,7 @@ Lo haces con el comando **/register** en el chat y escribiendo tu nueva clave do
 /register MiClave123 MiClave123
 ```
 
-## Inicia sesión (desde la segunda vez)
+## 🦖 Inicia sesión (desde la segunda vez)
 
 ::: info
 Lo haces con el comando **/login** en el chat y la clave que registraste

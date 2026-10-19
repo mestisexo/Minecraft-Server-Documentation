@@ -1,4 +1,4 @@
-## Reglas para la clave
+## 🥑 Reglas para la clave
 
 - Mínimo **6 caracteres**
 - Máximo 64 **caracteres**

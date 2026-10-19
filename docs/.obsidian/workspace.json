@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "furniture/commands.md",
+                "file": "login/key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commands"
+              "title": "key"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "furniture/commands.md",
+                "file": "login/key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "furniture/commands.md",
+                "file": "login/key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "furniture/commands.md",
+                "file": "login/key.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,15 +190,15 @@
   },
   "active": "00c590e2a840924e",
   "lastOpenFiles": [
-    "furniture/intro.md",
+    "login/commands.md",
+    "login/block.md",
     "login/access.md",
+    "furniture/intro.md",
     "furniture/commands.md",
     "index.md",
-    "login/commands.md",
     "furniture/tienda.md",
     "furniture",
     "login/key.md",
-    "login/block.md",
     "admin/respaldos.md",
     "admin/niveles-op.md",
     "admin/instalacion.md",
