@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "login/key.md",
+                "file": "recipes/inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key"
+              "title": "inventory"
             }
           }
         ]
@@ -190,15 +190,18 @@
   },
   "active": "00c590e2a840924e",
   "lastOpenFiles": [
-    "login/commands.md",
+    "recipes/craftingtable.md",
+    "recipes/inventory.md",
+    "login/key.md",
+    "recipes/recipes.md",
     "login/block.md",
+    "login/commands.md",
+    "index.md",
     "login/access.md",
     "furniture/intro.md",
     "furniture/commands.md",
-    "index.md",
     "furniture/tienda.md",
     "furniture",
-    "login/key.md",
     "admin/respaldos.md",
     "admin/niveles-op.md",
     "admin/instalacion.md",

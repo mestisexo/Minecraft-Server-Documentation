@@ -12,7 +12,7 @@ features:
     details: Nuestro mod enfocado en la seguridad de todos
     link: /login/access
   - icon: 🛋️
-    title: Muebles
-    details: ¡Que sería la vida sin recostarse en el sofá?
-    link: /furniture/intro
+    title: Recetario
+    details: Aprende todo lo que puedes hacer acá, fácil
+    link: /recipes/inventory
 ---
