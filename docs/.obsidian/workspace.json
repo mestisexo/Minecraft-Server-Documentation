@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67eb599cb7ad0508",
+        "id": "79f70e1a2a5c3c47",
         "type": "tabs",
         "children": [
           {
-            "id": "00c590e2a840924e",
+            "id": "15f56d52b1bf449b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/inventory.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "inventory"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -188,16 +184,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "00c590e2a840924e",
+  "active": "15f56d52b1bf449b",
   "lastOpenFiles": [
     "recipes/craftingtable.md",
     "recipes/inventory.md",
-    "login/key.md",
-    "recipes/recipes.md",
-    "login/block.md",
-    "login/commands.md",
     "index.md",
+    "public/images/houses/nostrha.webp",
+    "login/key.md",
+    "login/commands.md",
+    "login/block.md",
     "login/access.md",
+    "community/houses.md",
+    "2026-10-20_02.07.07.webp",
+    "community",
+    "recipes/recipes.md",
     "furniture/intro.md",
     "furniture/commands.md",
     "furniture/tienda.md",

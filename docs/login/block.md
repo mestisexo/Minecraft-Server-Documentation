@@ -1,5 +1,5 @@
 
-## 😵‍💫 Evita el bloqueo 
+**Evita el bloqueo**
 
 - Numero de **intentos permitidos 3** 
 - Tiempo limite **60 segundos**

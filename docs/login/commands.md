@@ -1,4 +1,4 @@
-## 💎 Comandos habilitados
+## 💎 Comandos del mod
 
 | Comando                            | Para qué sirve                                                                 |
 | ---------------------------------- | ------------------------------------------------------------------------------ |
@@ -9,7 +9,8 @@
 ::: info
 **no debes** escribir los símbolos `<` `>`.
 :::
-## 🛼 Ejemplos
+
+**Ejemplos**
 
 ```
 /register mesti12345 mesti12345

@@ -40,22 +40,20 @@ const mods: Mod[] = [
     ]
   },
   {
-    key: 'furniture',
-    name: 'Muebles',
-    title: 'Muebles',
-    pages: [
-      ['Introducción', 'intro'],
-      ['Comandos', 'commands'],
-      ['Tienda', 'tienda']
-    ]
-  },
-  {
     key: 'recipes',
     name: 'Recetario',
     title: 'Recetario',
     pages: [
       ['Recetas del inventario', 'inventory'],
       ['Recetas de la mesa de elaboración', 'craftingtable']
+    ]
+  },
+  {
+    key: 'community',
+    name: 'Comunidad',
+    title: 'Comunidad',
+    pages: [
+      ['Casas', 'houses']
     ]
   }
 ]

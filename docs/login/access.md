@@ -1,6 +1,4 @@
 
-## ⛄ Tranquilo ! 
-
 No podrás moverte, usar el hotbar o el menú hasta autenticarte.
 
 ## 🐤 Regístrate (sólo la primera vez)

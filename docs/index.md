@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Mods
+  name: Documentación
   text: para la comunidad
   tagline: Minecraft 1.21.1 + NeoForge 21.1.259
   
@@ -11,8 +11,12 @@ features:
     title: Login
     details: Nuestro mod enfocado en la seguridad de todos
     link: /login/access
-  - icon: 🛋️
+  - icon: 🧪
     title: Recetario
-    details: Aprende todo lo que puedes hacer acá, fácil
+    details: Aprende todo lo que puedes hacer, muy fácil
     link: /recipes/inventory
+  - icon: 🗺️
+    title: Comunidad
+    details: Nuestros mayores logros
+    link: /community/houses
 ---
